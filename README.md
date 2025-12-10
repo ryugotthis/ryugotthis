@@ -7,7 +7,7 @@ Next.js · React · TypeScript 기반으로 실제 사용자 문제를 해결하
 
 ## 🚀 Featured Projects
 
-### 🔸 LearningMate – 강의 추천 플랫폼  
+### 🔸 LearningMate - 강의 추천 플랫폼 (React 18)
 https://learningmate.store/ *(백엔드 서버 재설정 중)*  
 - FSD 아키텍처 설계  
 - JWT 인증 + 자동 재발급  
@@ -15,7 +15,7 @@ https://learningmate.store/ *(백엔드 서버 재설정 중)*
 - Firebase Cloud Functions 이메일 인증  
 - GitHub Actions + AWS S3/CloudFront 배포 자동화  
 
-### 🔸 Portfolio Website – Next.js 15  
+### 🔸 Portfolio Website - 브랜딩 디자이너 포트폴리오 웹사이트 (Next.js 15)  
 https://lucasprovost.com  
 - App Router 기반 페이지 구조  
 - 반응형 UI + Tailwind Design Token  
