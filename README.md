@@ -23,6 +23,7 @@ https://lucasprovost.com
 - IntersectionObserver 기반 영상 lazy-control로 리소스 최적화
 
 ### 🔸 LearningMate - 강의 추천 플랫폼 (React 18)
+https://github.com/ryugotthis/learningmate-gitactions/blob/master/README.md
 - FSD 아키텍처 설계  
 - JWT 인증 + 자동 재발급  
 - TanStack Query 기반 데이터 흐름 최적화  
